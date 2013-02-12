@@ -1,6 +1,0 @@
-D:\programming\exercise\algotithms\01. ElementaryDataTypes\01. LinkedList\bin\Debug\_01.LinkedList.exe.config
-D:\programming\exercise\algotithms\01. ElementaryDataTypes\01. LinkedList\obj\Debug\01. LinkedList.csprojResolveAssemblyReference.cache
-D:\programming\exercise\algotithms\01. ElementaryDataTypes\01. LinkedList\bin\Debug\_01.LinkedList.exe
-D:\programming\exercise\algotithms\01. ElementaryDataTypes\01. LinkedList\bin\Debug\_01.LinkedList.pdb
-D:\programming\exercise\algotithms\01. ElementaryDataTypes\01. LinkedList\obj\Debug\_01.LinkedList.exe
-D:\programming\exercise\algotithms\01. ElementaryDataTypes\01. LinkedList\obj\Debug\_01.LinkedList.pdb
