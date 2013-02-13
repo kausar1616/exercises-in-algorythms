@@ -4,3 +4,9 @@ D:\programming\exercise\algotithms\01. ElementaryDataTypes\03. Queue\bin\Debug\_
 D:\programming\exercise\algotithms\01. ElementaryDataTypes\03. Queue\obj\Debug\03. Queue.csprojResolveAssemblyReference.cache
 D:\programming\exercise\algotithms\01. ElementaryDataTypes\03. Queue\obj\Debug\_03.Queue.exe
 D:\programming\exercise\algotithms\01. ElementaryDataTypes\03. Queue\obj\Debug\_03.Queue.pdb
+D:\programming\exercise\Algorithms\01. ElementaryDataTypes\03. Queue\bin\Debug\_03.Queue.exe.config
+D:\programming\exercise\Algorithms\01. ElementaryDataTypes\03. Queue\bin\Debug\_03.Queue.exe
+D:\programming\exercise\Algorithms\01. ElementaryDataTypes\03. Queue\bin\Debug\_03.Queue.pdb
+D:\programming\exercise\Algorithms\01. ElementaryDataTypes\03. Queue\obj\Debug\03. Queue.csprojResolveAssemblyReference.cache
+D:\programming\exercise\Algorithms\01. ElementaryDataTypes\03. Queue\obj\Debug\_03.Queue.exe
+D:\programming\exercise\Algorithms\01. ElementaryDataTypes\03. Queue\obj\Debug\_03.Queue.pdb
