@@ -4,3 +4,9 @@ D:\programming\exercise\algotithms\01. ElementaryDataTypes\02. Stack\bin\Debug\_
 D:\programming\exercise\algotithms\01. ElementaryDataTypes\02. Stack\obj\Debug\02. Stack.csprojResolveAssemblyReference.cache
 D:\programming\exercise\algotithms\01. ElementaryDataTypes\02. Stack\obj\Debug\_02.Stack.exe
 D:\programming\exercise\algotithms\01. ElementaryDataTypes\02. Stack\obj\Debug\_02.Stack.pdb
+D:\programming\exercise\Algorithms\01. ElementaryDataTypes\02. Stack\bin\Debug\_02.Stack.exe.config
+D:\programming\exercise\Algorithms\01. ElementaryDataTypes\02. Stack\obj\Debug\_02.Stack.exe
+D:\programming\exercise\Algorithms\01. ElementaryDataTypes\02. Stack\obj\Debug\_02.Stack.pdb
+D:\programming\exercise\Algorithms\01. ElementaryDataTypes\02. Stack\bin\Debug\_02.Stack.exe
+D:\programming\exercise\Algorithms\01. ElementaryDataTypes\02. Stack\bin\Debug\_02.Stack.pdb
+D:\programming\exercise\Algorithms\01. ElementaryDataTypes\02. Stack\obj\Debug\02. Stack.csprojResolveAssemblyReference.cache

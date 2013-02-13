@@ -1,0 +1,6 @@
+D:\programming\exercise\Algorithms\02. Trees\01. BinaryTrees\bin\Debug\_01.BinaryTrees.exe.config
+D:\programming\exercise\Algorithms\02. Trees\01. BinaryTrees\obj\Debug\01. BinaryTrees.csprojResolveAssemblyReference.cache
+D:\programming\exercise\Algorithms\02. Trees\01. BinaryTrees\bin\Debug\_01.BinaryTrees.exe
+D:\programming\exercise\Algorithms\02. Trees\01. BinaryTrees\bin\Debug\_01.BinaryTrees.pdb
+D:\programming\exercise\Algorithms\02. Trees\01. BinaryTrees\obj\Debug\_01.BinaryTrees.exe
+D:\programming\exercise\Algorithms\02. Trees\01. BinaryTrees\obj\Debug\_01.BinaryTrees.pdb
