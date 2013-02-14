@@ -6,8 +6,24 @@ class Program
 {
     static void Main()
     {
-        BinaryTree<char> parseExpressions = new BinaryTree<char>();
-        MyStack<BinaryNode<char>> a = new MyStack<BinaryNode<char>>();
+        MyStack<BinaryNode<int>> parseConstructor = new MyStack<BinaryNode<int>>();
+        BinaryTree<int> parseTree = new BinaryTree<int>();
+
+        
+        string expression = "123+45**6+*";
+
+        BinaryNode<int> newNode = new BinaryNode<int>();
+        for (int i = 0; i < expression.Length; i++)
+        {
+            newNode = BinaryTree<int>.CreateNewNode(expression[i]);
+            if (expression[i] == '+' || expression[i] == '*')
+            {
+                newNode.Right = parseConstructor.Pop();
+                newNode.Left = parseConstructor.Pop();
+            }
+            parseConstructor.Push(newNode);
+        }
+        parseTree.Root = newNode;
     
 
     }
@@ -33,6 +49,9 @@ class BinaryNode<T>
     {
         this.left = left;
         this.right = right;
+    }
+    public BinaryNode()
+    {
     }
 
 
