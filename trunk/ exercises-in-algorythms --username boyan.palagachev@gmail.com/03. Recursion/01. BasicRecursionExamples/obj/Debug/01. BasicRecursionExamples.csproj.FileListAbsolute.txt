@@ -1,0 +1,5 @@
+D:\programming\exercise\Algorithms\03. Recursion\01. BasicRecursionExamples\bin\Debug\_01.BasicRecursionExamples.exe.config
+D:\programming\exercise\Algorithms\03. Recursion\01. BasicRecursionExamples\bin\Debug\_01.BasicRecursionExamples.exe
+D:\programming\exercise\Algorithms\03. Recursion\01. BasicRecursionExamples\bin\Debug\_01.BasicRecursionExamples.pdb
+D:\programming\exercise\Algorithms\03. Recursion\01. BasicRecursionExamples\obj\Debug\_01.BasicRecursionExamples.exe
+D:\programming\exercise\Algorithms\03. Recursion\01. BasicRecursionExamples\obj\Debug\_01.BasicRecursionExamples.pdb
