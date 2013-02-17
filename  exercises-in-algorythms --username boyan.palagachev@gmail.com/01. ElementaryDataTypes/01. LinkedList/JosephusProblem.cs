@@ -25,7 +25,7 @@ class JosephusProblem
 
             index++;
 
-            if (index % 5 == 0)
+            if (index % M == 0)
             {
                 Console.WriteLine(circle.GetNext(current).Value);
                 circle.DeleteNext(current);
