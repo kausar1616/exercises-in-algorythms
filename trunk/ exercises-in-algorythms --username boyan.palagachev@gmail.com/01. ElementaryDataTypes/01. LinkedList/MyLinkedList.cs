@@ -68,7 +68,6 @@ namespace MyLinkedList
         {
             get { return this.head; }
         }
-
         // delete next
         // if try to delete the last one it would delete the first one
         public void DeleteNext(Node<K> a)
@@ -81,7 +80,6 @@ namespace MyLinkedList
             {
                 a.Next = a.Next.Next;
             }
-
         }
         // insert after
         public void InsertAfter(Node<K> a, K value)
@@ -93,7 +91,6 @@ namespace MyLinkedList
         // fetchs the next node after the argument
         public Node<K> GetNext(Node<K> currentNode)
         {
-
             if (currentNode.Next.Next == currentNode.Next)
             {
                 return Head.Next;
@@ -102,9 +99,6 @@ namespace MyLinkedList
             {
                 return currentNode.Next;
             }
-
         }
-
-
     }
 }
